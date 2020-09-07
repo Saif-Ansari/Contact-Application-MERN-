@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://saif-a:_saif_77@contactskeeper.vilxq.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://saif-a:_saif_77@contactskeeper.vilxq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
